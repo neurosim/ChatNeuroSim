@@ -45,7 +45,7 @@ Each user has:
 These limits are refreshed every 24 hours at 12:00 PM EST.
 You can monitor your remaining usage quota directly within the web interface.
 
-## Video demo
+## Video Demo
 
 ## Acknowledgement
 This research is supported by NSF CAREER award, NSF/SRC E2CDA program, the ASCENT center (SRC/DARPA JUMP 1.0) and the PRISM and CHIMES centers (SRC/DARPA JUMP 2.0).
@@ -63,7 +63,7 @@ If you have logistic questions or comments on the model, please contact :man: [P
 ## Recent Update
 :star2: [2026.03.01] Initial version release.
 
-## References related to this tool
+## References Related to This Tool
 1. M.-Y. Lee, S. Yu. ※CahtNeuroSim: An LLM Agent Framework for Automated Compute-in-Memory Accelerator Deployment and Optimization, *§ arXiv: *, 2026.
 2. J. Read, M.-Y. Lee, W.-H. Huang, Y.-C. Luo, A. Lu, S. Yu, ※NeuroSim V1.5: improved software backbone for benchmarking compute-in-memory accelerators with device and Circuit-Level Non-Idealities, *§ IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2026.
 3. M.-Y. Lee, S. Yu, ※NeuroSim Agent: Automated Compute-In-Memory Accelerator Deployment with Transferable Reinforcement Learning and Dynamic Design Space Pruning, *§ 2025 ACM/IEEE 7th Symposium on Machine Learning for CAD (MLCAD)*, 2025.
