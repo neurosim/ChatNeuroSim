@@ -23,7 +23,7 @@ Send an email to the adminstrator [Ming-Yen Lee](mailto:mlee838@gatech.edu) and 
 ```
 Interested in ChatNeuroSim Trial Access (Your Name, Organization)
 ```
-Please include these information in your email: **Full name, Affiliation (University / Company / Organization), Position / Title, and Purpose of using ChatNeuroSim**. After review and approval, you will receive ** A Streamlit invitation link and A unique invitation code for login**.
+Please include these information in your email: **Full name, Affiliation (University / Company / Organization), Position / Title, and Purpose of using ChatNeuroSim**. After review and approval, you will receive **a Streamlit invitation link and a unique invitation code for login**.
 
 2. [**Access the Web Interface**]
 + Use the provided Streamlit invitation link to access the web interface.
