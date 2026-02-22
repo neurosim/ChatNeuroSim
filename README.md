@@ -18,20 +18,24 @@ The UI includes the sidebar, chat area, and input bar. Users can input CIM simua
 ChatNeuroSim is currently in its early development stage. We are offering invitation-based trial access to selected users who are interested in exploring the platform.
 
 Please follow the steps below to request access:
-1. [**Request an Invitation**]: Send an email to the adminstrator [Ming-Yen Lee](mailto:mlee838@gatech.edu) and cc [Prof. Shimeng Yu](mailto:shimeng.yu@ece.gatech.edu) with the subject line
-'''
-"Interested in ChatNeuroSim Trial Access (Your Name, Organization)"
-'''
-Please include these information in your email: **Full name, Affiliation (University / Company / Organization), Position / Title, and Purpose of using ChatNeuroSim**. After review and approval, you will receive ** A Streamlit invitation link and A unique invitation code for login".
-2. [**Access the Web Interface**]:
+1. [**Request an Invitation**]
+Send an email to the adminstrator [Ming-Yen Lee](mailto:mlee838@gatech.edu) and cc [Prof. Shimeng Yu](mailto:shimeng.yu@ece.gatech.edu) with the subject line:
+```
+Interested in ChatNeuroSim Trial Access (Your Name, Organization)
+```
+Please include these information in your email: **Full name, Affiliation (University / Company / Organization), Position / Title, and Purpose of using ChatNeuroSim**. After review and approval, you will receive ** A Streamlit invitation link and A unique invitation code for login**.
+
+2. [**Access the Web Interface**]
 + Use the provided Streamlit invitation link to access the web interface.
 + Log in using your email address and the invitation code.
 + Note: A Streamlit account is required to access the chat interface.
-3. [**Start Using ChatNeuroSim**]:
+
+3. [**Start Using ChatNeuroSim**]
 + After successful login: Enter your simulation or optimization request in plain text.
 + The system will automatically: Parse your request, Validate parameters, Generate simulation scripts, Execute simulations, Return simulation results.
 + We have included some query examples to start with in the folder /request_examples.
-4. [**Usage Limits**]:
+
+4. [**Usage Limits**]
 For fair usage and system stability, we set resource limits per user.
 Each user has:
 + A daily limit on LLM API token usage
