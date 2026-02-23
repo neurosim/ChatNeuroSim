@@ -17,7 +17,7 @@ ChatNeuroSim is implemented in Python, and the agent workflow is developed using
 The UI includes the sidebar, chat area, and input bar. Users can input CIM simualtion requests in plain text as well as the adjustments. ChatNeuroSim automatically parses user's request, calls [NeuroSim V1.5](https://github.com/neurosim/NeuroSim) for CIM simulation, and shows the results in the "results" tab.
 
 ## Steps of Trail Run
-ChatNeuroSim is currently in its early development stage. We are offering invitation-based trial access to selected users who are interested in exploring the platform.
+**ChatNeuroSim is currently in its early development stage. We are offering invitation-based trial access to selected users who are interested in exploring the platform.**
 
 Please follow the steps below to request access:
 1. [**Request an Invitation**]
