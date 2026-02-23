@@ -12,6 +12,8 @@ ChatNeuroSim is an LLM-powered agent framework that automates:
 ## User Interface
 ChatNeuroSim is implemented in Python, and the agent workflow is developed using [LangGraph](https://github.com/langchain-ai/langgraph) with GPT-5.1 as the backend LLM API. The UI is designed using [Streamlit Python library](https://github.com/streamlit/streamlit). Below shows the UI window for trail runs. 
 
+![UI_ChatArea](figures/UI_ChatArea.png)
+
 The UI includes the sidebar, chat area, and input bar. Users can input CIM simualtion requests in plain text as well as the adjustments. ChatNeuroSim automatically parses user's request, calls [NeuroSim V1.5](https://github.com/neurosim/NeuroSim) for CIM simulation, and shows the results in the "results" tab.
 
 ## Steps of Trail Run
