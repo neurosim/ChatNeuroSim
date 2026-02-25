@@ -66,10 +66,10 @@ If you have logistic questions or comments on the model, please contact :man: [P
 :star2: [2026.03.01] Initial version release.
 
 ## References Related to This Tool
-1. M.-Y. Lee, S. Yu. ※CahtNeuroSim: An LLM Agent Framework for Automated Compute-in-Memory Accelerator Deployment and Optimization, *§ arXiv: *, 2026.
-2. J. Read, M.-Y. Lee, W.-H. Huang, Y.-C. Luo, A. Lu, S. Yu, ※NeuroSim V1.5: improved software backbone for benchmarking compute-in-memory accelerators with device and Circuit-Level Non-Idealities, *§ IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2026.
-3. M.-Y. Lee, S. Yu, ※NeuroSim Agent: Automated Compute-In-Memory Accelerator Deployment with Transferable Reinforcement Learning and Dynamic Design Space Pruning, *§ 2025 ACM/IEEE 7th Symposium on Machine Learning for CAD (MLCAD)*, 2025.
-4. J. Lee, A. Lu, W. Li, S. Yu, ※NeuroSim V1.4: Extending Technology Support for Digital Compute-in-Memory Toward 1nm Node, *§ IEEE Transactions on Circuits and Systems I: Regular Papers*, 2024.
+1. M.-Y. Lee, S. Yu. ※ChatNeuroSim: An LLM Agent Framework for Automated Compute-in-Memory Accelerator Deployment and Optimization, *§ arXiv: *, 2026.
+3. J. Read, M.-Y. Lee, W.-H. Huang, Y.-C. Luo, A. Lu, S. Yu, ※NeuroSim V1.5: improved software backbone for benchmarking compute-in-memory accelerators with device and Circuit-Level Non-Idealities, *§ IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2026.
+4. M.-Y. Lee, S. Yu, ※NeuroSim Agent: Automated Compute-In-Memory Accelerator Deployment with Transferable Reinforcement Learning and Dynamic Design Space Pruning, *§ 2025 ACM/IEEE 7th Symposium on Machine Learning for CAD (MLCAD)*, 2025.
+5. J. Lee, A. Lu, W. Li, S. Yu, ※NeuroSim V1.4: Extending Technology Support for Digital Compute-in-Memory Toward 1nm Node, *§ IEEE Transactions on Circuits and Systems I: Regular Papers*, 2024.
 
 
 
