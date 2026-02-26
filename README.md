@@ -36,7 +36,7 @@ Please include these information in your email: **Full name, Affiliation (Univer
 3. [**Start Using ChatNeuroSim**]
 + After successful login: Enter your simulation or optimization request in plain text.
 + The system will automatically: Parse your request, Validate parameters, Generate simulation scripts, Execute simulations, Return simulation results.
-+ We have included some query examples to start with in the folder /request_examples.
++ We have included some query examples to start with in the folder [/request_examples](https://github.com/mingyeen99/ChatNeuroSim/tree/main/example_query).
 
 4. [**Usage Limits**]
 
