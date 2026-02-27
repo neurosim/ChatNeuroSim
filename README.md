@@ -1,4 +1,4 @@
-# ChatNeuroSim <img width="29" height="28" alt="image" src="https://github.com/user-attachments/assets/78e3fcfd-c587-4fb4-8826-66393d61ca40" />
+# ChatNeuroSim
 ChatNeuroSim is an intelligent agent framework for automated Compute-in-Memory (CIM) accelerator deployment and optimization. The ChatNeuroSim framework was developed by [Prof. Shimeng Yu's group](https://shimeng.ece.gatech.edu/) (Georgia Institute of Technology). The model is made publicly available on a non-commercial basis. Copyright of the model is maintained by the developers, and the model is distributed under the terms of the [Creative Commons Attribution-Non Commercial 4.0 International Public License](http://creativecommons.org/licenses/by-nc/4.0/legalcode)
 
 ## Overview
