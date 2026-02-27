@@ -48,6 +48,7 @@ These limits are refreshed every 24 hours at 12:00 PM EST.
 You can monitor your remaining usage quota directly within the web interface.
 
 ## Video Demo
+[Watch Demo Video](https://github.com/mingyeen99/ChatNeuroSim/blob/main/video/Demo_ChatNeuroSim.mp4)
 
 ## Acknowledgement
 This research is supported by NSF CAREER award, NSF/SRC E2CDA program, the ASCENT center (SRC/DARPA JUMP 1.0) and the PRISM and CHIMES centers (SRC/DARPA JUMP 2.0).
