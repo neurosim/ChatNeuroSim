@@ -64,7 +64,7 @@ If you use the tool or adapt the tool in your work or publication, you are requi
 If you have logistic questions or comments on the model, please contact :man: [Prof. Shimeng Yu](mailto:shimeng.yu@ece.gatech.edu), and if you have technical questions or comments, please contact :man: [Ming-Yen Lee](mailto:mlee838@gatech.edu)
 
 ## Recent Update
-:star2: [2026.03.01] Initial version release.
+:star2: [2026.03.03] Initial version release.
 
 ## References Related to This Tool
 1. M.-Y. Lee, S. Yu. ※ChatNeuroSim: An LLM Agent Framework for Automated Compute-in-Memory Accelerator Deployment and Optimization, *§ arXiv: *, 2026.
